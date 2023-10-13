@@ -264,7 +264,7 @@ if __name__ == "__main__":
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
     print(f"""JOIN [ 54 48 49 53 20 52 45 50 4F 20 4D 41 44 45 20 4D 59 20 4D 52 20 44 41 58 58 20]
-𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗗𝗔𝗫𝗫 𝗥𝗘𝗣𝗢 
+fromhex("54 48 49 53 20 52 45 50 4F 20 4D 41 44 45 20 4D 59 20 4D 52 20 44 41 58 58 20").decode() 
  {BOT_NAME} ɪs ᴀʟɪᴠᴇ!  
     """)
     idle()
