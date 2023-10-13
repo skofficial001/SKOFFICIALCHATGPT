@@ -147,7 +147,7 @@ async def source(bot, m):
     
     await m.reply_photo(START_IMG, caption=SOURCE_TEXT, reply_markup=SOURCE_BUTTONS)
 #  alive
-@DAXX.on_message(filters.commnad(["ping","alive"], prefixes=["+", "/", "-", "?", "$", "&","."]))
+@DAXX.on_message(filters.command(["ping","alive"], prefixes=["+", "/", "-", "?", "$", "&","."]))
 async def ping(client, message: Message):
         start = datetime.now()
         t = "ριиgιиg..."
