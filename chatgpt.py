@@ -263,10 +263,10 @@ if __name__ == "__main__":
         raise Exception("Your API_ID/API_HASH is not valid.")
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
-    print(f"""JOIN [ 54 48 49 53 20 52 45 50 4F 20 4D 41 44 45 20 4D 59 20 4D 52 20 44 41 58 58 20]
-fromhex("54 48 49 53 20 52 45 50 4F 20 4D 41 44 45 20 4D 59 20 4D 52 20 44 41 58 58 20").decode() 
+    print(f"""JOIN [ 𝗬𝗢𝗨𝗥 𝗖𝗛𝗔𝗧𝗚𝗣𝗧 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧]
+    𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗗𝗔𝗫𝗫 𝗧𝗘𝗔𝗠🥳
  {BOT_NAME} ɪs ᴀʟɪᴠᴇ!  
     """)
     idle()
     DAXX.stop()
-    print("Bot stopped. Bye !")
+    print("𝗗𝗔𝗫𝗫 𝗖𝗛𝗔𝗧𝗚𝗣𝗧 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣 !")
